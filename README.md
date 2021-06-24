@@ -1,6 +1,6 @@
 ### Hello World, I'm Theebanraj Uthayakumar  👋
 
- <img align="right" alt="GIF" src="https://storyset.com/illustration/telecommuting/pana#5B8BFDFF&hide=&hide=complete" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://docs.google.com/uc?id=1rZIP5qMCDDAw7HuoMRzB0PzwbvvovHj" width="500" height="320" />
 
 
 ## I'm a Full Stack Web Developer and Software Engineering Student at SLIIT!!
