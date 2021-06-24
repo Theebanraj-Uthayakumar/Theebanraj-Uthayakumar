@@ -1,8 +1,7 @@
 ### Hello World, I'm Theebanraj Uthayakumar  👋
 
- <img align="right" alt="GIF" src="https://docs.google.com/uc?id=1TtNaPivZZqCkXn8R_L-KRSgmJrbXJR8t"/>
+ <img align="right" alt="GIF" src="https://docs.google.com/uc?id=1TtNaPivZZqCkXn8R_L-KRSgmJrbXJR8t"  width="500" height="520" />
 
-<img src=""
 ## I'm a Full Stack Web Developer and Software Engineering Student at SLIIT!!
 
 - 🔭 I’m currently working on **Aarthy HQC**
