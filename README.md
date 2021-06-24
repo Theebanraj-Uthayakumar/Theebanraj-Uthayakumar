@@ -1,6 +1,6 @@
 ### Hello World, I'm Theebanraj Uthayakumar  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://storyset.com/illustration/developer-activity/bro#5B8BFDFF&hide=&hide=complete" width="500" height="320" />
 
 
 ## I'm a Full Stack Web Developer and Software Engineering Student at SLIIT!!
