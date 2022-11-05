@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I spend almost 10 hours code + listening songs everyday and read atlease 2Hr perday.**
 
-<h2>Holopin board</h2>
+<h2>Holopin Badge Board</h2>
 
 [![@theeban's Holopin board](https://holopin.me/theeban)](https://holopin.io/@theeban)
 
