@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theebanraj Uthayakumar</h1>
-<h3 align="center">A passionate associate Full-Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Analyst Full-Stack Developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theebanraj-uthayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="theebanraj-uthayakumar" /> </p>
