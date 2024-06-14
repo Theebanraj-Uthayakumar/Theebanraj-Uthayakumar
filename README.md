@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Theebanraj Uthayakumar</h1>
-<h3 align="center">A passionate Analyst Full-Stack Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Senior Software Engineer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theebanraj-uthayakumar&label=Profile%20views&color=0e75b6&style=flat" alt="theebanraj-uthayakumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/theebanraj10" target="blank"><img src="https://img.shields.io/twitter/follow/theebanraj10?logo=twitter&style=for-the-badge" alt="theebanraj10" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **Senior Software Engineer**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/its_theeban/)
 
-- 👨‍💻 All of my projects are available at [theebanraj.me](theebanraj.me)
+- 👨‍💻 All of my projects are available at [theebanraj.me](theebanraj.com)
 
 - 💬 Ask me about **MERN**
 
