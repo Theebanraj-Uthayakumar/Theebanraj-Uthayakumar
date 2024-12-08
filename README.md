@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/its_theeban/)
 
-- 👨‍💻 All of my projects are available at [theebanraj.me](theebanraj.com)
+- 👨‍💻 All of my projects are available at [theebanraj.com](theebanraj.com)
 
 - 💬 Ask me about **MERN**
 
